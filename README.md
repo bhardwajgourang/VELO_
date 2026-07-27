@@ -1,4 +1,4 @@
-2# VELO (Mini Uber)
+# VELO (Mini Uber)
 
 A comprehensive ride-hailing platform built with modern technologies, featuring specialized services like the **School Pool Pass**.
 
