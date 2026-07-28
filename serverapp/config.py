@@ -16,7 +16,10 @@ class Settings(BaseModel):
     debug: bool = True
     
     # Database
-    database_url: str = "postgresql://Mini_Uber_user:password@localhost:5432/Mini_Uber"
+    database_url: str = os.getenv(
+    "DATABASE_URL",
+    "postgresql://Mini_Uber_user:password@localhost:5432/Mini_Uber"
+    )
     
     # API
     api_title: str = "Mini Uber API"
