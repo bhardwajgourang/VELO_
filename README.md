@@ -92,7 +92,7 @@ npm run dev
 
 ### Frontend
 
-velo-59kj6zssq-bhardwajgourang123-9151s-projects.vercel.app
+https://velo-59kj6zssq-bhardwajgourang123-9151s-projects.vercel.app/
 
 ### Backend
 
