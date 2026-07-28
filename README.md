@@ -88,6 +88,118 @@ npm run dev
 
 -   **Rider Login**: Create a new account via the Signup page.
 -   **Driver Login**: Use Driver IDs like `8100`, `8101` (Auto-registered).
+  ##    🌐 Live Deployment
+
+### Frontend
+
+velo-59kj6zssq-bhardwajgourang123-9151s-projects.vercel.app
+
+### Backend
+
+https://velo-main-server.onrender.com
+
+### API Documentation
+
+https://velo-main-server.onrender.com/docs
+
+---
+# 🚀 Complete Ride Flow
+
+The following screenshots demonstrate the complete end-to-end workflow of VELO, from user authentication to ride completion.
+
+---
+
+## 🏠 1. Home Screen
+
+The landing page where users choose to continue as a Rider or Driver.
+
+![Home](docs/home.png)
+
+---
+
+## 👤 2. Rider Login
+
+The rider authenticates before requesting a ride.
+
+![Rider Login](docs/rider's_login.png)
+
+---
+
+## 🚗 3. Driver Login
+
+Drivers log in to begin accepting rides.
+
+![Driver Login](docs/driver's_login.png)
+
+---
+
+## 🪪 4. Driver Verification
+
+The driver enters their Driver ID for authentication.
+
+![Driver ID](docs/driver_id.png)
+
+---
+
+## 🟢 5. Driver Goes Online
+
+Once verified, the driver becomes available to receive ride requests.
+
+![Driver Online](docs/driver_online.png)
+
+---
+
+## 📍 6. Rider Selects Pickup & Destination
+
+The rider selects pickup and destination addresses.
+
+![Address Selection](docs/address_selection.png)
+
+---
+
+## 🚕 7. Driver Assigned
+
+The backend matches the rider with the nearest available driver.
+
+![Driver Found](docs/driver_found.png)
+
+---
+
+## 📲 8. Ride Request Received
+
+The driver receives the ride request with passenger details.
+
+![Ride Request](docs/ride_request.png)
+
+---
+
+## 🔐 9. OTP Verification
+
+For security, the rider provides an OTP which the driver verifies before starting the trip.
+
+![OTP Verification](docs/otp_verification.png)
+
+---
+
+## ▶️ 10. Ride Started
+
+Once OTP verification succeeds, the ride officially begins.
+
+### Driver's View
+
+![Ride Started Driver](docs/ride_started_(driver's_end).png)
+
+### Rider's View
+
+![Ride Started Rider](docs/trip_started_(reciever's_end).png)
+
+---
+
+## ⭐ 11. Ride Completed
+
+After reaching the destination, the rider rates the trip.
+
+![Rating](docs/rating.png)
 
 ---
 
