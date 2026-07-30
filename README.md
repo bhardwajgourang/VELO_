@@ -94,10 +94,6 @@ npm run dev
 
 https://velo-59kj6zssq-bhardwajgourang123-9151s-projects.vercel.app/
 
-### Backend
-
-https://velo-main-server.onrender.com
-
 ### API Documentation
 
 https://velo-main-server.onrender.com/docs
